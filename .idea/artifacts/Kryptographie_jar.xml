@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Kryptographie:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Kryptographie_jar</output-path>
+    <root id="archive" name="Kryptographie.jar">
+      <element id="module-output" name="Kryptographie" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/jetbrains/annotations/17.0.0/annotations-17.0.0.jar" path-in-jar="/" />
+      <element id="library" level="project" name="IntelliJ IDEA GridLayout" />
+    </root>
+  </artifact>
+</component>
